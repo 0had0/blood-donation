@@ -36,7 +36,11 @@ function TopBar() {
 				</Text>
 			</Text>
 			<div style={{ display: "flex" }}>
-				<Text as="a" href="#" target="_blank">
+				<Text
+					as="a"
+					href="https://github.com/0had0/blood-donation"
+					target="_blank"
+				>
 					Visit&nbsp;
 				</Text>
 				<span className="material-icons md-24">code</span>
